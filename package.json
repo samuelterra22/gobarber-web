@@ -48,7 +48,7 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/react-hooks": "^3.3.0",
+    "@testing-library/react-hooks": "^3.4.1",
     "@types/styled-components": "^5.1.1",
     "@types/yup": "^0.29.3",
     "@typescript-eslint/eslint-plugin": "^2.29.0",
